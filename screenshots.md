@@ -1,4 +1,4 @@
 # Lab 1
 
 -Screenshot of workspace
-- ![screenshot](./setup-screenshot.PNG)
+- ![screenshot](./Setup-Screenshot.PNG)
